@@ -1,37 +1,17 @@
-
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f0f0f0;
-
 }
 
 header {
     background-color: #333;
-    padding: 10px;
+    color: #fff;
     text-align: center;
+    padding: 1em 0;
 }
 
-nav {
-    display: flex;
-    justify-content: center;
-}
-
-nav a {
-    color: white;
-    text-decoration: none;
-    padding: 14px 16px;
-    margin: 0 10px;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    font-weight: bold;
-    transition: color 0.3s ease-in-out;
-}
-
-nav a:hover {
-    color: #ff9900;
-}
 .gallery {
     display: flex;
     flex-wrap: wrap;
