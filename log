@@ -1,0 +1,91 @@
+[33mcommit ae98d105ac40ad9a9c7da5f8caee738427ad59eb[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sandrine Nokam <sandrinewato27@gmail.com>
+Date:   Tue Nov 14 19:48:35 2023 +0100
+
+    Modification du style
+
+[33mcommit dd76e90010e4b0862bc0541e453c4639c83a0fd0[m
+Author: Sandrine Nokam <sandrinewato27@gmail.com>
+Date:   Tue Nov 14 19:35:08 2023 +0100
+
+    Modification du style dans le fichier html
+
+[33mcommit 804b0a7efb57fc00e3334fa3882070666dcb7e69[m
+Author: Sandrine Nokam <84144900+Sendy69@users.noreply.github.com>
+Date:   Tue Nov 14 19:01:53 2023 +0100
+
+    Update2 static.yml
+
+[33mcommit 76bf849cf221b0e74c7156e3a4eef4ca31b9bc78[m
+Author: Sandrine Nokam <sandrinewato27@gmail.com>
+Date:   Tue Nov 14 18:44:29 2023 +0100
+
+    renommage des fichiers html et css
+
+[33mcommit 4dfd61b5f75725068385f66daaae21e82896708d[m
+Author: Sandrine Nokam <sandrinewato27@gmail.com>
+Date:   Tue Nov 14 17:27:46 2023 +0100
+
+    fichiers renommés
+
+[33mcommit 1f5d1c0be72031d117a80ef529e120d116265b19[m
+Author: Sandrine Nokam <84144900+Sendy69@users.noreply.github.com>
+Date:   Tue Nov 14 17:22:54 2023 +0100
+
+    Update static.yml
+
+[33mcommit 44537647e3fc2a79affff3948cb8469f2e6867b1[m
+Author: Sandrine Nokam <84144900+Sendy69@users.noreply.github.com>
+Date:   Tue Nov 14 17:01:03 2023 +0100
+
+    Update1 static.yml
+
+[33mcommit b31c8450b6d796e914398a441588cd55aee519e0[m
+Author: Sandrine Nokam <84144900+Sendy69@users.noreply.github.com>
+Date:   Tue Nov 14 16:46:15 2023 +0100
+
+    Create static.yml
+
+[33mcommit 9598d9712fc0a4dbf24035ba94797bbcbf7d60ea[m[33m ([m[1;31morigin/devops[m[33m)[m
+Author: MBOUNGOU MBOYO Marcelin <esperancemarcelin9@gmail.com>
+Date:   Tue Nov 14 16:19:54 2023 +0100
+
+    ajout hearder
+
+[33mcommit 778886a2543eea1e42a2035b35be1b9439468dc5[m
+Merge: 8d0a41a 21708fb
+Author: MBOUNGOU MBOYO Marcelin <esperancemarcelin9@gmail.com>
+Date:   Tue Nov 14 16:02:06 2023 +0100
+
+    ajout d'image
+
+[33mcommit 8d0a41aa5c80552d8d429f161a986f8054d1cd07[m
+Author: MBOUNGOU MBOYO Marcelin <esperancemarcelin9@gmail.com>
+Date:   Tue Nov 14 16:00:14 2023 +0100
+
+    ajout des photos
+
+[33mcommit 21708fb62d078259fb5446fcc94a71f0db84f1fa[m[33m ([m[1;31morigin/features[m[33m, [m[1;32mfeatures[m[33m, [m[1;32mdev[m[33m)[m
+Merge: a6593cb 5620798
+Author: Sandrine Nokam <sandrinewato27@gmail.com>
+Date:   Tue Nov 14 15:54:11 2023 +0100
+
+    Merge branch 'main' of https://github.com/marcelinesperance/MyPicture
+
+[33mcommit a6593cb4c9df0dc6cc7d8d7c119d56c3f8e74b0a[m
+Author: Sandrine Nokam <sandrinewato27@gmail.com>
+Date:   Tue Nov 14 15:49:55 2023 +0100
+
+    Insertion de l'image 3
+
+[33mcommit 5620798805b9b415c4a1f8b0bf10634e463f16a8[m
+Author: MBOUNGOU MBOYO Marcelin <esperancemarcelin9@gmail.com>
+Date:   Tue Nov 14 15:45:37 2023 +0100
+
+    ajout de l'image  du bracelet
+
+[33mcommit b4956d07bc2f254c9ff494d0a509b353284384ee[m
+Author: MBOUNGOU MBOYO Marcelin <esperancemarcelin9@gmail.com>
+Date:   Tue Nov 14 15:33:29 2023 +0100
+
+    creation de la page et du css
